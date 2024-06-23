@@ -13,7 +13,7 @@ The ownership of this dashboard belongs to the [Taipei Urban Intelligence Center
 
 Check out our demo video below:
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://firebasestorage.googleapis.com/v0/b/absolute-text-353909.appspot.com/o/螢幕錄影%202024-06-24%20凌晨4.31.22.mov?alt=media&token=d6d1724c-7468-4991-aac1-c2f0b6c073a8)
+[![Demo Video](https://raw.githubusercontent.com/JarrenPoh/Taipei-City-Dashboard/main/截圖%202024-06-24%20凌晨4.49.51.png)](https://firebasestorage.googleapis.com/v0/b/absolute-text-353909.appspot.com/o/螢幕錄影%202024-06-24%20凌晨4.31.22.mov?alt=media&token=d6d1724c-7468-4991-aac1-c2f0b6c073a8)
 
 ## Installation Steps
 
