@@ -18,7 +18,7 @@ Check out our demo video below:
 ## Installation Steps
 
 1. **Download the project**:
-   [Download Link](https://github.com/JarrenPoh/Taipei-City-Dashboard/archive/refs/heads/main.zip)
+   [Download Link](https://github.com/JarrenPoh/Taipei-City-Dashboard)
 
 2. **Navigate to the Docker directory**:
    ```sh
