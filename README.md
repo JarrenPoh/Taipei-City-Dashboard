@@ -8,7 +8,7 @@ The ownership of this dashboard belongs to the [Taipei Urban Intelligence Center
 
 ## Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JarrenPoh/Taipei-City-Dashboard/main/FAC6B503-4CCA-4C34-A16C-80EEE18F160C.JPG" />
+  <img src="https://raw.githubusercontent.com/JarrenPoh/Taipei-City-Dashboard/main/截圖%202024-06-24%20凌晨4.49.51.png" />
 </p>
 
 Check out our demo video below:
