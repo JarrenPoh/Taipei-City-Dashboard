@@ -33,6 +33,10 @@ The ownership of this dashboard belongs to the [Taipei Urban Intelligence Center
 5. **Initialize the dashboard**:
    ```sh
    docker-compose -f docker-compose-init.yaml up -d
+
+6. **Run the frontend and backend services**:
+   ```sh
+   docker-compose up -d
 ---
 Note : To access the "Utility Features" section, you need to log in to the dashboard.
 - Click on the "Log In" button at the top right corner.
